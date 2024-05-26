@@ -5,7 +5,6 @@ Breve descrição do seu projeto
 -Criei um video para um canal do youtube focado em curiosidades.
 -o primeiro video vai ser sobre teorias da conspiração com Inteligência Artificial
 ## 🤖 Tecnologias Utilizadas
-- Liste as IAs Generativas e outras ferramentas usadas
 - Video gerado por: [D-ID](https://studio.d-id.com/)
 - Edição de video feita no: [ShortCut](https://shotcut.org/)
 - Roteiro criado por: [ChatGPT](https://chatgpt.com/?oai-dm=1)
